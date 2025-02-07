@@ -6,11 +6,11 @@ The **Home Page** of the Home Service Provider Application serves as the entry p
 
     1. Displays different categories of home services (plumbing, electrical, cleaning, etc.).
 
-## Login & Signup Pages
+## Login & Signup Page
 
 The Login & Signup Pages allow users to securely access the Home Service Provider Application. Users can create an account, log in, and manage their profiles to book or offer home services efficiently.
 
-### Purpose of the Login & Signup Pages
+### Purpose of the Login & Signup Page
 1. Allow users to register as Customers or Service Providers.
 1. Ensure secure authentication and authorization.
 1. Provide a seamless user experience for account management.
